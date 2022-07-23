@@ -1,0 +1,28 @@
+.first-button {
+    margin-right: 3px;
+}
+
+.first-button:hover {
+    background-color: orange;
+    padding: 5px;
+    border-radius: 3px;
+    border: none;
+}
+
+.second-button {
+    margin-right: 3px;
+}
+
+.second-button:hover {
+    background-color: orange;
+    padding: 5px;
+    border-radius: 3px;
+    border: none;
+}
+
+.third-button:hover {
+    background-color: orange;
+    padding: 5px;
+    border-radius: 3px;
+    border: none;
+}
